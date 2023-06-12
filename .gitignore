@@ -1,1 +1,6 @@
 .idea/
+venv/
+Lib/
+Scripts/
+exercise_3/__pycache__/
+pyvenv.cfg
